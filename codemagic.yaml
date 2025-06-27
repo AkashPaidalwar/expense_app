@@ -1,6 +1,6 @@
 workflows:
-  flutter-build:
-    name: Build Flutter APK
+  flutter-apk-build:
+    name: Build APK (fixed)
     environment:
       flutter: stable
     scripts:
